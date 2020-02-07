@@ -1,2 +1,2 @@
-# hello-github
-Why not
+# Hello, Github!
+A basic Hello World test, because I'm bored.
